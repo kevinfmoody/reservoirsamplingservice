@@ -1,0 +1,13 @@
+{
+  "name": "resevoirsamplingservice",
+  "version": "1.0.0",
+  "author": "Kevin Moody",
+  "license": "ISC",
+  "scripts": {
+    "start": "node service"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
